@@ -1,4 +1,4 @@
-This file is the result of a practice realized in Advanced statistical module in the Universidad internacional de Valencia.
+This project is the result of a practice realized in Advanced statistical module in the Universidad internacional de Valencia.
 I downloaded a time series within https://datos.gob.ar/series/api/series/?ids=364.3_INDUSTRIARIA__9 , and did an analysis of the data including mean, boxplot, histogram, time series decomposition, prediction for next 3 years, etc.
 The code was developed in R.
 ![1](https://github.com/marielabvargas/timeseries/assets/1233695/ae0c605e-0c99-43e7-8728-79b7c7f88944)
